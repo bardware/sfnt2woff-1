@@ -6,6 +6,6 @@ The main binary now accepts a customized path as destination. Also a tool for di
 
 It would be nice to bind some functions to ruby (woff.c) and have it ready as a gem.
 
-You may check the original site at: [http://people.mozilla.com/~jkew/woff/] (http://people.mozilla.com/~jkew/woff/)
+You may check the original site at: [http://people.mozilla.com/~jkew/woff/](http://people.mozilla.com/~jkew/woff/) - not avail in July 2017
 
-We're using this and other interesting stuff at Woffable: [http://woffable.com/] (http://woffable.com/)
+~~We're using this and other interesting stuff at Woffable: [http://woffable.com/](http://woffable.com/)~~
